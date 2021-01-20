@@ -1,0 +1,12 @@
+main
+	__CC2DW
+		____DoICP
+	timer0_init
+	external
+	EDIT_mode
+		EDIT_FD_seconds
+		EDIT_SD_seconds
+		EDIT_FD_minutes
+		EDIT_SD_minutes
+	Mul_8X8_U
+interrupt
